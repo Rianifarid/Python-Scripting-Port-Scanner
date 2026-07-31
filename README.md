@@ -25,7 +25,7 @@ Enter an IP or Hostname to scan:
 
 ### Screenshot
 
-![Port Scanner Preview](images/banner.png)
+![Port Scanner Preview](banner.jpeg)
 
 ---
 
