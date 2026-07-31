@@ -20,7 +20,7 @@ A simple TCP Port Scanner written in Python. This project scans a target host to
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/port-scanner.git
+git clone https://github.com/Rianifarid/port-scanner.git
 cd port-scanner
 ```
 
@@ -86,4 +86,4 @@ This project was created to practice:
 
 This project is intended for educational purposes only.
 
-Tu peux ensuite remplacer `your-username` par ton nom d'utilisateur GitHub avant de publier le dépôt.
+
