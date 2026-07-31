@@ -12,20 +12,18 @@ A simple TCP Port Scanner written in Python. This project scans a target host to
 ██████╔╝██║   ██║██████╔╝   ██║       ███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
 ██╔═══╝ ██║   ██║██╔══██╗   ██║       ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
 ██║     ╚██████╔╝██║  ██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
-```
-
+╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 
 =================================================================
  Author      : Farid Riani
  Version     : 1.0
- Description : Simple TCP Port Scanner written in Python
+ Description : Simple TCP Port Scanner Written in Python
 =================================================================
 
 Enter an IP or Hostname to scan:
 ```
 
-Or with a screenshot:
+### Screenshot
 
 ![Port Scanner Preview](images/banner.png)
 
@@ -39,10 +37,14 @@ Or with a screenshot:
 - Display a banner using `pyfiglet`
 - Handle common network errors gracefully
 
+---
+
 ## Requirements
 
 - Python 3
 - pyfiglet
+
+---
 
 ## Installation
 
@@ -51,6 +53,8 @@ git clone https://github.com/Rianifarid/port-scanner.git
 cd port-scanner
 pip install pyfiglet
 ```
+
+---
 
 ## Usage
 
@@ -72,6 +76,8 @@ Port 80: is open
 Port 443: is open
 ```
 
+---
+
 ## Technologies Used
 
 - Python 3
@@ -80,6 +86,8 @@ Port 443: is open
 - subprocess
 - sys
 - time
+
+---
 
 ## Learning Objectives
 
@@ -90,6 +98,8 @@ This project was created to practice:
 - TCP networking
 - Exception handling
 - Building command-line security tools
+
+---
 
 ## License
 
